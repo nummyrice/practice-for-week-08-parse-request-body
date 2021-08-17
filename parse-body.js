@@ -1,5 +1,6 @@
 function firstStep(input) {
   // Your code here
+  return input.split('&');
 }
 
 function secondStep(input) {
